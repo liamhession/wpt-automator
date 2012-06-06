@@ -1,0 +1,21 @@
+<?xml version="1.0" ?><response>
+<statusCode>200</statusCode>
+<statusText>Ok</statusText>
+<data>
+<testId>120601_95_b6630e6caa6d4b398942e874a3c31e03</testId>
+<summary>http://bvlabs-wpt.aws.bazaarvoice.com/result/120601_95_b6630e6caa6d4b398942e874a3c31e03/</summary>
+<testUrl>http://www.hugoboss.com/</testUrl>
+<location>bvlabs_wpt_ie9_east_wptdriver</location>
+<connectivity>DSL</connectivity>
+<bwDown>1500</bwDown>
+<bwUp>384</bwUp>
+<latency>50</latency>
+<plr>0</plr>
+<completed>Fri, 01 Jun 2012 22:52:52 +0000</completed>
+<runs/>
+<average>
+<firstView>
+</firstView>
+</average>
+</data>
+</response>

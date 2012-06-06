@@ -1,0 +1,8 @@
+# /etc/crontab - root's crontab
+#
+SHELL=/bin/sh
+PATH=/bin:/sbin:/usr/bin:/usr/sbin
+HOME=/var/log
+
+#min     hour     mday     month     wday    user     command
+50      11      *       *       *       root        bash test_script.sh
